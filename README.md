@@ -1,2 +1,3 @@
 # exercise-repo
-Repo made for exercises.
+Repo made for exercise.
+hooman
